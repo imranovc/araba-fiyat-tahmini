@@ -60,16 +60,11 @@ araba-fiyat-tahmini/
 ├── README.md
 └── ...
 
-css
-Kopyala
-Düzenle
 
 ## 👤 Geliştirici
 
 **İmran Ovacı**  
-Çankırı Karatekin Üniversitesi  
-Bilgisayar Mühendisliği Bölümü  
-Öğrenci No: 210905044
+
 =======
 # araba-fiyat-tahmini
 Araç fiyatlarını tahmin eden makine öğrenmesi projesi
