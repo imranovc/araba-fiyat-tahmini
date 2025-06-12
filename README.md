@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Araba Fiyat Tahmini Projesi
 
 Bu proje, Türkiye otomobil pazarındaki araç fiyatlarını etkileyen faktörleri analiz ederek, makine öğrenimi algoritmalarıyla araç fiyatlarını tahmin etmeyi amaçlamaktadır.
@@ -69,3 +70,7 @@ Düzenle
 Çankırı Karatekin Üniversitesi  
 Bilgisayar Mühendisliği Bölümü  
 Öğrenci No: 210905044
+=======
+# araba-fiyat-tahmini
+Araç fiyatlarını tahmin eden makine öğrenmesi projesi
+>>>>>>> 53f7de94768f3b0d01f14e21140186da3ab292d0
