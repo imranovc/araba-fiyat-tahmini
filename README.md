@@ -65,7 +65,7 @@ araba-fiyat-tahmini/
 
 **İmran Ovacı**  
 
-imran.ovc@hotmail.com
+imran.ovc@gmail.com
 =======
 # araba-fiyat-tahmini
 Araç fiyatlarını tahmin eden makine öğrenmesi projesi
